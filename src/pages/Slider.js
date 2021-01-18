@@ -19,8 +19,7 @@ class Slider extends Component {
                         />
                         <Carousel.Caption>
                             <h3 className="slider-title">« Gondolas in Venice »</h3>
-                            <p className="slider-p">Venice – Original watercolor painting on Arches paper 356gr. cold pressed.
-Gondolas in the fog of Venice on the Grand Canal. </p>
+                            <p className="slider-p">Venice – Original watercolor painting on Arches paper 356gr. </p>
                             <p className="slider-title">By Thierry Duval  </p>
                         </Carousel.Caption>
                     </Carousel.Item>
