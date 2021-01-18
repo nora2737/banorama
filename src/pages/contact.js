@@ -19,7 +19,7 @@ function Contact() {
                 <button type="button" className="btn btn-light  ">Send</button>
             </div>
         </div>
-        <div className=" ">
+        <div className=" ml-auto mt-4" style={{ paddingLeft: "auto", marginRight: "10px" }}>
             <img className="socialmedia " src="https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png" alt="" height="50px" />
             <img className=" socialmedia " src="https://i.pinimg.com/originals/b7/63/69/b763699fd1fa3bfb374442593ae642e1.png" alt="" height="55px" />
             <img className=" socialmedia mx-4" src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/twitter-icon-18-256.png" alt="" height="30px" />
