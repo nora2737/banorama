@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Card from "./Card";
 import firebase from '../firebase.js'
-import LoopIcon from '@material-ui/icons/Loop';
+//import LoopIcon from '@material-ui/icons/Loop';
 class Products extends Component {
   state = {
     products: null,
@@ -13,7 +13,7 @@ class Products extends Component {
   }
   render() {
     if (this.state.products === null) {
-      return <h1 className="laoding">Laoding...<LoopIcon /></h1>
+      return <h1 className="laoding">Laoding...</h1>
     }
     return (
       <div className="products ">
